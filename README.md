@@ -25,7 +25,7 @@ The goal of this analysis is to identify:
 
 ## Dataset
 
-- **Source:** Sample Superstore Dataset — Kaggle
+- **Source:** Sample Superstore Dataset — Availabe on Kaggle
 - **Rows:** 10,194 orders
 - **Columns:** 21 features
 - **Period:** 2023 to 2026
@@ -84,8 +84,6 @@ The goal of this analysis is to identify:
 ## Project Structure
 
 retail-business-analysis/
-
-├── Sample - Superstore.csv        # Raw dataset
 
 ├── superstore_analysis.ipynb      # Python & Pandas analysis
 
