@@ -33,7 +33,7 @@ The goal of this analysis is to identify:
 - **Key Fields:** Region, Category, Sub-Category, Sales, Profit, 
   Discount, Quantity, Ship Mode, Segment
 
-  ## Key Business Findings
+## Key Business Findings
 
 1. **Central region has the worst profit margin at 7.92%** — despite 
    being 3rd highest in sales. Excessive discounting average 24% 
