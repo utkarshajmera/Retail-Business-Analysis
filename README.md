@@ -84,10 +84,15 @@ The goal of this analysis is to identify:
 ## Project Structure
 
 retail-business-analysis/
+
 ├── Sample - Superstore.csv        # Raw dataset
+
 ├── superstore_analysis.ipynb      # Python & Pandas analysis
+
 ├── superstore_sql.ipynb           # SQL queries & findings
+
 ├── superstore.pbix                # Power BI dashboard
+
 └── README.md                      # Project documentation
 
 ## How To Run This Project
