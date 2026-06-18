@@ -28,7 +28,7 @@ The goal of this analysis is to identify:
 
 ## Dataset
 
-- **Source:** Sample Superstore Dataset — Availabel on Kaggle
+- **Source:** Sample Superstore Dataset — Available on Kaggle
 - **Rows:** 10,194 orders
 - **Columns:** 21 features
 - **Period:** 2023 to 2026
@@ -114,6 +114,6 @@ retail-business-analysis/
 3. SQLite database will be created automatically
 
 ### Power BI Dashboard
-1. Download `superstore.pbix`
+1. Download `retail_project.pbix`
 2. Open in Power BI Desktop
 3. Dataset is embedded — no additional setup needed
