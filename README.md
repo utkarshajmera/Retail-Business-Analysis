@@ -79,7 +79,12 @@ The goal of this analysis is to identify:
 5. **Focus acquisition efforts on Home Office segment** — smallest 
    but most efficient segment with best margin at 14%.
 
-## BI dashboard
+## Dashboard Screenshots
+### Page 1 — Business Overview
+![Business Overview](page1.png)
+
+### Page 2 — Regional Deep Dive
+![Regional Deep Dive](page2.png)
 
 ## Project Structure
 
