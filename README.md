@@ -83,7 +83,7 @@ The goal of this analysis is to identify:
 ### Page 1 — Business Overview
 ![Business Overview](page1.png)
 
-### Page 2 — Regional Deep Dive
+### Page 2 — Regional Analysis
 ![Regional Deep Dive](page2.png)
 
 ## Project Structure
