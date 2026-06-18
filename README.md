@@ -4,6 +4,9 @@ An end-to-end data analysis project investigating why a US retail
 business generating $2.3M in revenue is only retaining 12.6% as 
 profit — and what the business should do about it.
 
+## 🔗 Links
+- 💼 LinkedIn Post — Coming Soon
+
 ## Problem Statement
 
 A US retail business operating across 4 regions — West, East, 
@@ -25,7 +28,7 @@ The goal of this analysis is to identify:
 
 ## Dataset
 
-- **Source:** Sample Superstore Dataset — Availabe on Kaggle
+- **Source:** Sample Superstore Dataset — Availabel on Kaggle
 - **Rows:** 10,194 orders
 - **Columns:** 21 features
 - **Period:** 2023 to 2026
@@ -94,7 +97,7 @@ retail-business-analysis/
 
 ├── superstore_sql.ipynb           # SQL queries & findings
 
-├── superstore.pbix                # Power BI dashboard
+├── retail_project.pbix                # Power BI dashboard
 
 └── README.md                      # Project documentation
 
