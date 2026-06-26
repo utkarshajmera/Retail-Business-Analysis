@@ -5,7 +5,7 @@ business generating $2.3M in revenue is only retaining 12.6% as
 profit — and what the business should do about it.
 
 ## 🔗 Links
-- 💼 LinkedIn Post — Coming Soon
+- 💼 LinkedIn Post — https://www.linkedin.com/posts/utkarsh-ajmera-4a4321389_a-business-doing-23m-in-revenue-is-quietly-ugcPost-7475889088953479169-C43F/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF-fH3wBtAabCWjhYC8q9AQBCExDeStHqvQ
 
 ## Problem Statement
 
